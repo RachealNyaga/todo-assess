@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.text-center {
+    text-align: center;
+}
+
+
+
+#task-form {
+    width: 50%;
+    margin: 20px auto;
+    
+}
+#task-list {
+    margin-top: 20px;
+
+}
+#task-list h2 {
+    margin: 30PX;
+
+}
+#task-list ul {
+    width: 50%;
+    margin: 10px auto;
+    padding: 10px;
+    list-style: none;
+}
+
+#task-list ul li {
+list-style: numbers;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: yellow;
+}
